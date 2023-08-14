@@ -1,0 +1,33 @@
+{
+    "plants": [
+        {
+            "current water": 1,
+            "name": "dnrgo",
+            "days without water": 1,
+            "days to repot": 13,
+            "type": "osdnfod"
+        },
+        {
+            "current water": 1,
+            "name": "wekajfn k",
+            "days without water": 1,
+            "days to repot": 13,
+            "type": "ansoan"
+        },
+        {
+            "current water": 1,
+            "name": "adsoifn",
+            "days without water": 1,
+            "days to repot": 13,
+            "type": "asnmdfn"
+        },
+        {
+            "current water": 1,
+            "name": "sodjnfsao",
+            "days without water": 1,
+            "days to repot": 13,
+            "type": "aosndfos"
+        }
+    ],
+    "name": "my garden"
+}

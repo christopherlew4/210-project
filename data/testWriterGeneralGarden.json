@@ -1,0 +1,19 @@
+{
+    "plants": [
+        {
+            "current water": 10,
+            "name": "A",
+            "days without water": 10,
+            "days to repot": 0,
+            "type": "Succulent"
+        },
+        {
+            "current water": 0,
+            "name": "Default",
+            "days without water": 0,
+            "days to repot": 0,
+            "type": "Name"
+        }
+    ],
+    "name": "my garden"
+}
